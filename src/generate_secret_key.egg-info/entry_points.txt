@@ -1,0 +1,2 @@
+[console_scripts]
+generate-secret-key = generate_secret_key:main

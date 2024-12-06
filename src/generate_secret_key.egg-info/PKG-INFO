@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: generate-secret-key
+Version: 1.0.0
+Summary: A script to generate cryptographically secure secret keys.
+Home-page: https://github.com/adrlksv/secret_crypto_key
+Author: adrlksv
+Author-email: Qwerty123Andrey@bk.ru
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
