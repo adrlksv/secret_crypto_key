@@ -4,7 +4,7 @@ setup(
     name="generate-secret-key",
     version="1.0.0",
     py_modules=["generate_secret_key"],
-    package_dir={"": "."},
+    package_dir={"": "src"},
     entry_points={
         "console_scripts": [
             "generate-secret-key=generate_secret_key:main",
